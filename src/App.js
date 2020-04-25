@@ -35,6 +35,7 @@ class App extends React.Component{
                 <Cards data={data}/>
                 <CountryPicker handleCountryChange={this.handleCountryChange}/>
                 <Chart data={data} country={country}/>
+                <footer className={styles.footer}><p>Developed using React.JS, Chart.JS, Material UI | Suhas Salian</p></footer>
             </div>
         )
     }
