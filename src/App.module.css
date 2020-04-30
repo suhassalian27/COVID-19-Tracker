@@ -10,7 +10,7 @@ body{
 }
 
 .image{
-    width:1349px;
+    width:100%;
     margin-top: 0px;
 }
 
@@ -22,7 +22,7 @@ body{
 
 h1 { 
     font-family: -apple-system, Segoe UI, Helvetica, Arial, sans-serif;  
-    font-size: 70px;
+    font-size: 400%;
     color: white;
     text-shadow: 4px 1px 10px rgb(0, 0, 0);
     position: absolute;
@@ -31,17 +31,27 @@ h1 {
     transform: translate(-50%, -50%); 
 }
 
-.footer{
-    padding-top: 100px;
-}
+
+.footer {
+    margin-top: 100px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(109, 109, 109);
+    color: white;
+    text-align: center;           /* Footer height */
+  }
 
 
-@media (max-width:770px){
+@media (max-width:1070px){
     .container{
         margin: 0 10%;
     }
 
-    .image{
-        width:
+    h1 { 
+        font-size: 100%;   
+        width: 100%;
+        text-align : center;      
     }
+    
 }
