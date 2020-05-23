@@ -1,3 +1,9 @@
+This Project was developed using ReactJs, ChartJs and Material UI.
+
+live : thecovid19stats.netlify.app
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
