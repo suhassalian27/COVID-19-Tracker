@@ -1,6 +1,6 @@
 This Project was developed using ReactJs, ChartJs and Material UI.
 
-live : thecovid19stats.netlify.app
+[View Live](https://thecovid19stats.netlify.app/)
 
 
 
