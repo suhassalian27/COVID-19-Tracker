@@ -37,7 +37,7 @@ h1 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(109, 109, 109);
+    background-color: rgba(22, 22, 22, 0.774);
     color: white;
     text-align: center;           /* Footer height */
   }
